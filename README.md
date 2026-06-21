@@ -32,7 +32,7 @@ The generated password is classified according to its entropy, for example:
 
 *(Thresholds may vary depending on the implementation.)*
 
-## 🛠️ Technologies
+## Technologies
 
 * Python 3
 
