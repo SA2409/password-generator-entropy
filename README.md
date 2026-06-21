@@ -18,7 +18,7 @@ The project classifies each generated password into different security levels, h
 * Password strength classification
 * Easy-to-use command-line interface
 
-## 📊 Password Strength Levels
+## Password Strength Levels
 
 The generated password is classified according to its entropy, for example:
 
@@ -38,26 +38,6 @@ The generated password is classified according to its entropy, for example:
 
 * Standard Python libraries
 * `math` `random` / `secrets`
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SA2409/passgenerator.git
-```
-
-Navigate to the project:
-
-```bash
-cd passgenerator
-```
-
-Run the application:
-
-```bash
-python passgen.py
-```
 
 # Example
 
